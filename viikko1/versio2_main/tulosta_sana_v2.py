@@ -5,8 +5,7 @@ def main():
       sana = f.read().strip()
 
 
-  print(sana)
+    print(sana)
 
-
-  if _name_ == "__main__":
-    main()
+if __name__ == "__main__":
+     main()
